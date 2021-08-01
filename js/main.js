@@ -9,7 +9,7 @@
     'img/OriginSlide.005.jpeg',
     'img/OriginSlide.006.jpeg',
     'img/OriginSlide.007.jpeg',
-    'img/OriginSlide.008.jpeg'
+    'img/OriginSlide.008.jpeg',
 
 
   ];
