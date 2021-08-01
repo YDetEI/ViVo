@@ -2,16 +2,8 @@
 
 {
   const images = [
-    'img/OriginSlide.001.jpeg',
-    'img/OriginSlide.002.jpeg',
-    'img/OriginSlide.003.jpeg',
-    'img/OriginSlide.004.jpeg',
-    'img/OriginSlide.005.jpeg',
-    'img/OriginSlide.006.jpeg',
-    'img/OriginSlide.007.jpeg',
-    'img/OriginSlide.008.jpeg',
 
-
+    
   ];
   let currentIndex = 0;
 
@@ -62,7 +54,7 @@
     timeoutId = setTimeout(() => {
       next.click();
       playSlideshow();
-    }, 1500);
+    }, 1000);
   }
 
   let isPlaying = false;
