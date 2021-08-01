@@ -3,7 +3,6 @@
 {
   const images = [
 
-
   ];
   let currentIndex = 0;
 
