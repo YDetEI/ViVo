@@ -2,9 +2,8 @@
 
 {
   const images = [
-    'img/1.jpeg',
-    'img/2.jpeg',
 
+    
   ];
   let currentIndex = 0;
 
